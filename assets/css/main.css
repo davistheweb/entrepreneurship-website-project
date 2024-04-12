@@ -1,17 +1,3 @@
-/**
-* Template Name: HeroBiz
-* Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/**
-* Check out variables.css for easy customization of colors, typography, and other repetitive properties
-*/
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 :root {
   scroll-behavior: smooth;
 }
@@ -558,8 +544,8 @@ section {
 --------------------------------------------------------------*/
 .hero-animated {
   width: 100%;
-  min-height: 50vh;
-  background: url("../img/hero-bg.png") center center;
+  min-height: 100vh;
+  background: url("../images/love\ garden.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 120px 0 60px;
@@ -703,7 +689,7 @@ section {
 }
 
 .hero h2 {
-  color: var(--color-secondary);
+  color: #06a506;
   margin-bottom: 25px;
   font-size: 48px;
   font-weight: 300;
@@ -986,7 +972,7 @@ section {
   margin: 0 0 10px 0;
   font-size: 48px;
   font-weight: 300;
-  color: var(--color-secondary);
+  color: #06a506;
   font-family: var(--font-secondary);
 }
 
