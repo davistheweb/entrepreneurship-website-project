@@ -542,6 +542,26 @@ section {
 /*--------------------------------------------------------------
 # Animated Hero Section
 --------------------------------------------------------------*/
+
+.hero-animated .re-animate {
+  animation: home-animate forwards infinite 7s cubic-bezier(0.56,-0.14, 0.43, 1.17);
+  animation-delay: 3s;
+}
+
+@keyframes home-animate {
+    0% {
+      transform: translateY(-100px);
+      opacity: 0;
+    }
+
+    30%,50%,100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+} 
+
+
+
 .hero-animated {
   width: 100%;
   min-height: 100vh;
