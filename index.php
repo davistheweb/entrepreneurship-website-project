@@ -152,14 +152,7 @@
           </div>
 
           <div class="col-lg-7">
-<!--             <h3 class="pt-0 pt-lg-5">Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h3>
 
-            <!-- Tabs -->
-            <!-- <ul class="nav nav-pills mb-3">
-              <li><a class="nav-link active" data-bs-toggle="pill" href="#tab1">Saepe fuga</a></li>
-              <li><a class="nav-link" data-bs-toggle="pill" href="#tab2">Voluptates</a></li>
-              <li><a class="nav-link" data-bs-toggle="pill" href="#tab3">Corrupti</a></li>
-            </ul> --><!-- End Tabs -->
 
             <!-- Tab Content -->
             <div class="tab-content">
@@ -288,59 +281,58 @@
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item">
               <div class="img">
-                <img src="assets/images/myimg.jpg" class="img-fluid" alt="">
+                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
                   <i class="bi bi-person-circle"></i>
                 </div>
                 <a href="#" class="stretched-link">
-                  <h3>Josiah Davis</h3>
+                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
                 </a>
-                <p>Computer science department of Imo State University.</p>
-                <a href="#" class="stretched-link"></a>
+                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
+          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item">
               <div class="img">
-                <img src="assets/images/myimg.jpg" class="img-fluid" alt="">
+                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
                   <i class="bi bi-person-circle"></i>
                 </div>
                 <a href="#" class="stretched-link">
-                  <h3>Josiah Davis</h3>
+                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
                 </a>
-                <p>Computer science department of Imo State University.</p>
-                <a href="#" class="stretched-link"></a>
+                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
               </div>
             </div>
           </div><!-- End Service Item -->
 
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
+          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item">
               <div class="img">
-                <img src="assets/images/myimg.jpg" class="img-fluid" alt="">
+                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
                   <i class="bi bi-person-circle"></i>
                 </div>
                 <a href="#" class="stretched-link">
-                  <h3>Josiah Davis</h3>
+                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
                 </a>
-                <p>Computer science department of Imo State University.</p>
-                <a href="#" class="stretched-link"></a>
+                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
               </div>
             </div>
           </div><!-- End Service Item -->
+
+
 
         </div>
 
@@ -738,9 +730,9 @@
             <div class="footer-info">
               <h3>IMSU-E</h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
+              G25R+6W6, Ugwu Orji, Owerri 460108, Imo <br>
+                Nigeria<br><br>
+                <strong>Phone:</strong> +234 9018797128<br>
                 <strong>Email:</strong> info@example.com<br>
               </p>
             </div>
@@ -785,7 +777,7 @@
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Designed by <a href="#">GST CLASS</a>
           </div>
         </div>
 
