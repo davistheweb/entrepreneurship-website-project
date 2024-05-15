@@ -105,6 +105,7 @@
     </div>
   </section>
 
+  <div id="preloader"></div>
   <main id="main">
 
     <!-- ======= Featured Services Section ======= -->
