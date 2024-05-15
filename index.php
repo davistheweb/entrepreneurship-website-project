@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/images/images.jpg" rel="icon">
+  <link href="assets/images/images.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -45,8 +45,7 @@
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
+         <img src="assets/images/images.png" alt=""> 
         <h1>IMSU-E<span>.</span></h1>
       </a>
 
@@ -67,28 +66,6 @@
           <li><a class="nav-link scrollto" href="index.html#skills">Skills</a></li>
           <li><a class="nav-link scrollto" href="index.html#directors">Directors</a></li>
           <li class="dropdown megamenu"><a href="#"><span>Skill Product</span> <!-- <i class="bi bi-chevron-down dropdown-indicator"></i> --></a>
-            <!-- <ul>
-              <li>
-                <a href="#">Column 1 link 1</a>
-                <a href="#">Column 1 link 2</a>
-                <a href="#">Column 1 link 3</a>
-              </li>
-              <li>
-                <a href="#">Column 2 link 1</a>
-                <a href="#">Column 2 link 2</a>
-                <a href="#">Column 3 link 3</a>
-              </li>
-              <li>
-                <a href="#">Column 3 link 1</a>
-                <a href="#">Column 3 link 2</a>
-                <a href="#">Column 3 link 3</a>
-              </li>
-              <li>
-                <a href="#">Column 4 link 1</a>
-                <a href="#">Column 4 link 2</a>
-                <a href="#">Column 4 link 3</a>
-              </li>
-            </ul> -->
           </li>
           <li class="dropdown"><a href="#"><span>Students</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -102,12 +79,11 @@
                   <li><a href="#">Deep Drop Down 5</a></li> -->
                 </ul>
               </li>
-              <li><a href="#donation">Donation</a></li>
-              <li><a href="#">Registration</a></li>
-              <li><a href="#">Login</a></li>
+              <li><a href="register.php">Registration</a></li>
+              <li><a href="login.php">Login</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
@@ -147,7 +123,7 @@
 
           <div class="col-lg-5">
             <div class="about-img">
-              <img src="assets/images/images.jpg" class="img-fluid" alt="">
+              <img src="assets/images/images.png" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -280,151 +256,10 @@
               </div>
             </div>
           </div><!-- End Service Item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-            <div class="service-item">
-              <div class="img">
-                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
-              </div>
-              <div class="details position-relative">
-                <div class="icon">
-                  <i class="bi bi-person-circle"></i>
-                </div>
-                <a href="#" class="stretched-link">
-                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
-                </a>
-                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-            <div class="service-item">
-              <div class="img">
-                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
-              </div>
-              <div class="details position-relative">
-                <div class="icon">
-                  <i class="bi bi-person-circle"></i>
-                </div>
-                <a href="#" class="stretched-link">
-                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
-                </a>
-                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
-
-          <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-            <div class="service-item">
-              <div class="img">
-                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
-              </div>
-              <div class="details position-relative">
-                <div class="icon">
-                  <i class="bi bi-person-circle"></i>
-                </div>
-                <a href="#" class="stretched-link">
-                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
-                </a>
-                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
-              </div>
-            </div>
-          </div><!-- End Service Item -->
-
-
-
         </div>
 
       </div>
     </section><!-- End Services Section -->
-
-    <!-- ======= Pricing Section ======= -->
-    <section id="donation" class="pricing">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>Donation</h2>
-          <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
-        </div>
-
-        <div class="row gy-4">
-
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pricing-item">
-
-              <div class="pricing-header">
-                <h3>Free Plan</h3>
-                <h4><sup> ₦</sup>0<span> / month</span></h4>
-              </div>
-
-              <ul>
-                <li><i class="bi bi-dot"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-
-              <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Donate</a>
-              </div>
-
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="400">
-            <div class="pricing-item featured">
-
-              <div class="pricing-header">
-                <h3>Business Plan</h3>
-                <h4><sup> ₦</sup>50,000<span> / month</span></h4>
-              </div>
-
-              <ul>
-                <li><i class="bi bi-dot"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nulla at volutpat diam uteera</spa>
-                </li>
-                <li><i class="bi bi-dot"></i> <span>Pharetra massa massa ultricies</spa>
-                </li>
-                <li><i class="bi bi-dot"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-
-              <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Donate</a>
-              </div>
-
-            </div>
-          </div><!-- End Pricing Item -->
-
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="600">
-            <div class="pricing-item">
-
-              <div class="pricing-header">
-                <h3>Developer Plan</h3>
-                <h4><sup> ₦</sup>50,000<span> / month</span></h4>
-              </div>
-
-              <ul>
-                <li><i class="bi bi-dot"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-dot"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li><i class="bi bi-dot"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li><i class="bi bi-dot"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
-
-              <div class="text-center mt-auto">
-                <a href="#" class="buy-btn">Donate</a>
-              </div>
-
-            </div>
-          </div><!-- End Pricing Item -->
-
-        </div>
-
-      </div>
-    </section><!-- End Pricing Section -->
     <!-- ======= Portfolio Section ======= -->
     <section id="skills" class="portfolio" data-aos="fade-up">
 
@@ -455,7 +290,7 @@
               <img src="assets/images/webdev.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web development Course</h4>
-                <a href="assets/images/webdev.jpg" title="App 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/images/webdev.jpg" title="Web development Course" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -464,7 +299,7 @@
               <img src="assets/images/web (2).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Tailoring</h4>
-                <a href="assets/img/portfolio/product-1.jpg" title="Product 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/images/web (2).jpeg" title="Tailoring" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -472,8 +307,8 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
               <img src="assets\images\web (4).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Music</h4>
-                <a href="assets\images\web (4).jpeg" title="Branding 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>MusicMusic</h4>
+                <a href="assets\images\web (4).jpeg" title="Music" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                <!--  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -482,7 +317,7 @@
               <img src="assets/images/w.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Writing</h4>
-                <a href="assets/images/w.png" title="Branding 1" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/images/w.png" title="Writing" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -491,7 +326,7 @@
               <img src="assets/images/webdesign.avif" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web design Course</h4>
-                <a href="assets/images/webdesign.avif" title="App 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/images/webdesign.avif" title="Web design Course" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -500,7 +335,7 @@
               <img src="assets\images\web (1).jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Baking</h4>
-                <a href="assets/img/portfolio/product-2.jpg" title="Product 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets\images\web (1).jpg" title="Baking" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -509,7 +344,7 @@
               <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>MakeUp</h4>
-                <a href="assets/img/portfolio/branding-2.jpg" title="Branding 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/img/portfolio/branding-2.jpg" title="MakeUp" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -517,8 +352,8 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
               <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Books 2</h4>
-                <a href="assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>Writing</h4>
+                <a href="assets/img/portfolio/books-2.jpg" title="Writing" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -527,7 +362,7 @@
               <img src="assets/images/web (1).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web developement</h4>
-                <a href="assets/images/web (1).jpeg" title="App 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/images/web (1).jpeg" title="Web developement" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -536,7 +371,7 @@
               <img src="assets\images\web (3).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Catering</h4>
-                <a href="assets\images\web (3).jpeg" title="Product 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets\images\web (3).jpeg" title="Catering" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -545,7 +380,7 @@
               <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>MakeUp</h4>
-                <a href="assets/img/portfolio/branding-3.jpg" title="Branding 2" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="assets/img/portfolio/branding-3.jpg" title="MakeUp" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -553,8 +388,8 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
               <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Books 3</h4>
-                <a href="assets/img/portfolio/books-3.jpg" title="Branding 3" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <h4>Writing </h4>
+                <a href="assets/img/portfolio/books-3.jpg" title="Writing" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
             </div><!-- End Portfolio Item -->
@@ -572,7 +407,7 @@
 
         <div class="section-header">
           <h2>Our Directors</h2>
-          <p>Architecto nobis eos vel nam quidem vitae temporibus voluptates qui hic deserunt iusto omnis nam voluptas asperiores sequi tenetur dolores incidunt enim voluptatem magnam cumque fuga.</p>
+          <p>Directors of IMO STATE UNIVERSITY Entreprenuership program</p>
         </div>
 
         <div class="row gy-5">
@@ -671,7 +506,7 @@
                 <i class="bi bi-envelope flex-shrink-0"></i>
                 <div>
                   <h4>Email:</h4>
-                  <p><a href="mailto:info@example.com">info@example.com</a></p>
+                  <p><a href="mailto:entreimsu@gmail.com">entreimsu@gmail.com</a></p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -679,7 +514,7 @@
                 <i class="bi bi-phone flex-shrink-0"></i>
                 <div>
                   <h4>Call:</h4>
-                  <p><a href="tel:+2349018797128">+2349018797128</a></p>
+                  <p><a href="tel:+2348038658581">+2348038658581</a></p>
                 </div>
               </div><!-- End Info Item -->
 
@@ -732,8 +567,8 @@
               <p>
               G25R+6W6, Ugwu Orji, Owerri 460108, Imo <br>
                 Nigeria<br><br>
-                <strong>Phone:</strong> +234 9018797128<br>
-                <strong>Email:</strong> info@example.com<br>
+                <strong>Phone:</strong>+2348038658581<br>
+                <strong>Email:</strong> entreimsu@gmail.com<br>
               </p>
             </div>
           </div>
@@ -770,14 +605,10 @@
 
         <div class="d-flex flex-column align-items-center align-items-lg-start">
           <div class="copyright">
-            &copy; Copyright <strong><span>IMSU-E</span></strong>. All Rights Reserved
+           <p> &copy; Copyright <strong><span>IMSU-E ||</span></strong> <script> document.write(new Date().getFullYear())</script> .All Rights Reserved </p>
           </div>
           <div class="credits">
-            <!-- All the links in the footer should remain intact. -->
-            <!-- You can delete the links only if you purchased the pro version. -->
-            <!-- Licensing information: https://bootstrapmade.com/license/ -->
-            <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/herobiz-bootstrap-business-template/ -->
-            Designed by <a href="#">GST CLASS</a>
+           <p>Donated by  2022 Entrepreneurship Program</p>
           </div>
         </div>
 

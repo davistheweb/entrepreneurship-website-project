@@ -34,7 +34,7 @@
 
   /* Defult links color */
   --color-links: #06a506;
-  --color-links-hover: #1ec3e0;
+  --color-links-hover: #06a506;
 
   /* Primay colors */
   --color-primary: #06a506;
@@ -55,7 +55,7 @@
   --color-secondary-dark-rgb: 58, 71, 83;
 
   /* General colors */
-  --color-blue: #0d6efd;
+  --color-blue: #06a506;
   --color-blue-rgb: 13, 110, 253;
 
   --color-indigo: #6610f2;
@@ -126,7 +126,7 @@
   --bs-primary: var(--color-blue);
   --bs-secondary: var(--color-blue);
   --bs-success: #198754;
-  --bs-info: #0dcaf0;
+  --bs-info: #06a506;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
