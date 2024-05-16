@@ -56,7 +56,7 @@
               <li><a href="#">Direct Entry Registration</a></li>
               <li class="dropdown"><a href="#"><span>Confirm Skills</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
-                  <li><a href="#">Check Skills Score</a></li>
+                  <li><a href="skillscore.php" target="_blank">Check Skills Score</a></li>
                   <li><a href="#"> Register Carryover</a></li>
                 </ul>
               </li>
@@ -550,7 +550,7 @@
               <li><i class="bi bi-chevron-right"></i> <a href="login.php" target="_blank">Login</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Direct Entry Registration</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Confirm Skills</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Check Skills Score</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="skillscore.php" target="_blank">Check Skills Score</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Register Carryover</a></li>
             </ul>
           </div>

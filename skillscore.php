@@ -27,20 +27,28 @@
             <div class="container justify-content-center px-5 header_top_2">
                 <form class="row g-3 need-validation novalidate form_toper_1">
                     <div>
-                        <h1>Student Login.</h1>
+                        <h1>Confirm Skill Score.</h1>
                     </div>
                     <div class="col-md-12">
                         <label for="email" class="form-label">Email</label><br><br>
                         <input type="text" class="form-control input_top"name="email" id="email">   
                     </div>
                         <div class="col-md-12">
-                        <label for="pass" class="form-label">Password</label><br><br>
-                        <input type="password" class="form-control input_top" name="password" id="pass">   
+                        <label for="skillMatNo" class="form-label">Matriculation No.</label><br><br>
+                        <input type="text" class="form-control input_top" name="skillMatNo" id="pass">   
+                    </div>
+                        <div class="col-md-12">
+                        <label for="skillType" class="form-label">Skill Type</label><br><br>
+                        <input type="text" class="form-control input_top" name="skillType" id="pass">   
+                    </div>
+                        <div class="col-md-12">
+                        <label for="academicSession" class="form-label">Academic Session</label><br><br>
+                        <input type="text" class="form-control input_top" name="academicSession" id="pass">   
                     </div>
                     </div>
                         <br><br>
                         <div class="for-button">
-                            <button type="button" id="btn">Login</button>
+                            <button type="button" id="btn">Check Score</button>
                             </div>
                         </div>
                     </div>

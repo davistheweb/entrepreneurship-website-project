@@ -54,17 +54,6 @@
                         <label for="email" class="form-label">Email</label><br><br>
                         <input type="text" class="form-control input_top"name="email" id="email">   
                     </div>
-                    <!-- <div class="col-md-12 date_label_top">
-                        <label for="validationCustom03" class="form-label">State</label>
-                        <select id="state" required>
-                            <option value="days">days</option> 
-                            <option value="text">Imo State</option>
-                            <option value="text">Abia state</option>
-                            <option value="text">Akwa ibom</option>
-                            <option value="text">River state</option>
-                            <option value="text">Delta state</option>
-                        </select>
-                    </div> -->
                     <div class="col-md-12">
                         <div class="date_label_top">
                             <label for="name" class="form-label">Gender</label>
