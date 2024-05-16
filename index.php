@@ -197,16 +197,16 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
             <div class="service-item">
               <div class="img">
-                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
+                <img src="assets\images\josiah.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
                   <i class="bi bi-person-circle"></i>
                 </div>
                 <a href="#" class="stretched-link">
-                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
+                  <h3>Dev. Josiah Davis</h3>
                 </a>
-                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
+                <p>Student at Web design and developement Entrepreneurship Class & Computer Science.</p>
               </div>
             </div>
           </div><!-- End Service Item -->

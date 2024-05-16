@@ -8,6 +8,16 @@
     width: 100vw !important;
     background: url(assets/images/mission.jpg);
 }
+
+.header-logo {
+    display: flex;
+    gap: 0;
+}
+.header-logo img {
+    width: 45px;
+    margin-left: 4rem;
+    max-height: 40px;
+}
 .header_top{
     width: 100% !important;
 }

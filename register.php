@@ -12,17 +12,19 @@
     <link rel="stylesheet" href="plugins\fonts\font-awesome-4.7.0\css/font-awesome.css">
 </head>
 <body class="page-wrap">
-    <section class="reg-header">
+    <header class="reg-header">
         <nav class="navbar navbar-expand-lg nav-primary bg-success header_top">
             <div class="container-xxl">
                 <span class="fw-bold text-dark">
-                    
-                    <h1 class="lead fw-bold text-light seven_size ">IMSU-E 
+                    <div class="header-logo"><!-- 
+                <img src="assets/images/images.png" alt="">  -->
+                    <h1 class="lead fw-bold text-light seven_size "> IMSU-E 
                         </span>
                     </h1>
+                    </div>
         </div>
         </nav>
-        </section>
+</header>
         <main class="main">
     <section class="row">
         <div class="header_top_1 col-lg-6 col-sm-10 col-md-6 bg-light my-5 py-5 ">
