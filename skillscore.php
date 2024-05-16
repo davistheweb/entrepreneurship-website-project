@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>IMSU-E || Login - Forms</title>
+    <title>IMSU-E || Confirm Skill Score</title>
     <link rel="stylesheet" href="bootstrap-5.0.2-dist\css\bootstrap.min.css">
     <link href="assets/images/images.png" rel="icon">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist\css\bootstrap-utilities.css">
