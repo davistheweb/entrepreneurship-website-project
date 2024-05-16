@@ -17,8 +17,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
@@ -26,16 +24,8 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link href="assets/css/variables.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: HeroBiz
-  * Template URL: https://bootstrapmade.com/herobiz-bootstrap-business-template/
-  * Updated: Mar 17 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  <link href="assets/css/main.css" rel="stylesheet">
 </head>
 
 <body>
@@ -44,7 +34,7 @@
   <header id="header" class="header fixed-top" data-scrollto-offset="0">
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
+      <a href="index.php" class="logo d-flex align-items-center scrollto me-auto me-lg-0">
          <img src="assets/images/images.png" alt=""> 
         <h1>IMSU-E<span>.</span></h1>
       </a>
@@ -52,20 +42,14 @@
       <nav id="navbar" class="navbar">
         <ul>
 
-          <li class="dropdown"><a href="#"><span>Home</span> <!-- <i class="bi bi-chevron-down dropdown-indicator"></i> --></a>
-           <!--  <ul>
-              <li><a href="index.html" class="active">Home 1 - index.html</a></li>
-              <li><a href="index-2.html">Home 2 - index-2.html</a></li>
-              <li><a href="index-3.html">Home 3 - index-3.html</a></li>
-              <li><a href="index-4.html">Home 4 - index-4.html</a></li>
-            </ul> -->
+          <li class="dropdown"><a href="#"><span>Home</span></a>
           </li>
 
-          <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
-          <li><a class="nav-link scrollto" href="index.html#instructors">Instructors</a></li>
-          <li><a class="nav-link scrollto" href="index.html#skills">Skills</a></li>
-          <li><a class="nav-link scrollto" href="index.html#directors">Directors</a></li>
-          <li class="dropdown megamenu"><a href="#"><span>Skill Product</span> <!-- <i class="bi bi-chevron-down dropdown-indicator"></i> --></a>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#instructors">Instructors</a></li>
+          <li><a class="nav-link scrollto" href="#skills">Skills</a></li>
+          <li><a class="nav-link scrollto" href="#directors">Directors</a></li>
+          <li class="dropdown megamenu"><a href="#"><span>Skill Product</span></a>
           </li>
           <li class="dropdown"><a href="#"><span>Students</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
@@ -73,44 +57,32 @@
               <li class="dropdown"><a href="#"><span>Confirm Skills</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="#">Check Skills Score</a></li>
-                  <li><a href="#"> Register Carryover</a></li><!-- 
-                  <li><a href="#">lorem</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li> -->
+                  <li><a href="#"> Register Carryover</a></li>
                 </ul>
               </li>
-              <li><a href="register.php">Registration</a></li>
-              <li><a href="login.php">Login</a></li>
+              <li><a href="register.php" target="_blank">Registration</a></li>
+              <li><a href="login.php" target="_blank">Login</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle d-none"></i>
       </nav><!-- .navbar -->
-
-      <!-- <a class="btn-getstarted scrollto" href="index.html#about">Get Started</a>
- -->
     </div>
   </header><!-- End Header -->
 
   <section id="hero-animated" class="hero-animated d-flex align-items-center">
     <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative re-animate" data-aos="zoom-out">
-      <!-- <img src="assets/img/hero-carousel/hero-carousel-3.svg" class="img-fluid animated"> -->
       <h2 style="color: #000;">WELCOME TO <span style="color: #0f9e0f;">IMSU ENTREPRENUERSHIP WEBSITE</span></h2>
       <p style="color: #000;" >We're thrilled to have you here. Whether you're exploring our products, seeking information, or simply browsing, we're here to make your experience exceptional. Feel free to reach out to us with any questions or feedback. Enjoy your visit</p>
       <div class="d-flex">
         <a href="#about" style="background-color: #0f9e0f !important;" class="btn-get-started scrollto">Get Started</a>
-       <!--  <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
       </div>
     </div>
   </section>
 
-  <div id="preloader"></div>
+ <!--  <div id="preloader"></div> -->
   <main id="main">
-
-    <!-- ======= Featured Services Section ======= -->
-    <!-- End Featured Services Section -->
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container" data-aos="fade-up">
@@ -135,9 +107,6 @@
             <div class="tab-content">
 
               <div class="tab-pane fade show active" id="tab1">
-
-<!--                 <p class="fst-italic">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
- -->
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
                   <h4>Starting a Business</h4>
@@ -146,7 +115,7 @@
 
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-check2"></i>
-                  <h4>Intrapreneurship</h4>
+                  <h4>Entrepreneurship</h4>
                 </div>
                 <p>Applying entrepreneurial skills within an existing organization to innovate, create new products or services, or improve processes.</p>
 
@@ -308,7 +277,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
               <img src="assets\images\web (4).jpeg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>MusicMusic</h4>
+                <h4>Music</h4>
                 <a href="assets\images\web (4).jpeg" title="Music" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                <!--  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> -->
               </div>
@@ -434,17 +403,11 @@
           <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="400">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/images/vc-single.png" class="img-fluid" alt="">
+                <img src="assets\images\profmba.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-           <!--      <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div> -->
-                <h4>Prof. Uchefula Ugonna Chukwumaeze</h4>
-                <span>Vice Chancellor</span>
+                <h4>Prof. Mbagwu</h4>
+                <span>Director entrepreneurship.</span>
               </div>
             </div>
           </div><!-- End Team Member -->
@@ -452,17 +415,11 @@
           <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="600">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/images/vc-single.png" class="img-fluid" alt="">
+                <img src="assets\images\supervisor.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-               <!--  <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div> -->
-                <h4>Prof. Uchefula Ugonna Chukwumaeze</h4>
-                <span>Vice Chancellor</span>
+                <h4>Name?</h4>
+                <span>Supervisor</span>
               </div>
             </div>
           </div><!-- End Team Member -->
@@ -577,11 +534,11 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Instructors</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Skills</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Directors</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#home">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#instructors">Instructors</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#skills">Skills</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#directors">Directors</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Skill Product</a></li>
             </ul>
           </div>
@@ -589,8 +546,8 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Students</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Registration</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Login</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="register.php" target="_blank">Registration</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="login.php" target="_blank">Login</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Direct Entry Registration</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Confirm Skills</a></li>
               <li><i class="bi bi-chevron-right"></i> <a href="#">Check Skills Score</a></li>
