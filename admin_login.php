@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>IMSU-E || Confirm Skill Result</title>
+    <title>IMSU-E || Admin - Login</title>
     <link rel="stylesheet" href="bootstrap-5.0.2-dist\css\bootstrap.min.css">
     <link href="assets/images/images.png" rel="icon">
     <link rel="stylesheet" href="bootstrap-5.0.2-dist\css\bootstrap-utilities.css">
-    <link rel="stylesheet" href="register.css">
+    <link rel="stylesheet" href="admin_login.css">
     <link rel="stylesheet" href="plugins\fonts\font-awesome-4.7.0\css/font-awesome.css">
 </head>
 <body class="page-wrap">
@@ -27,39 +27,20 @@
             <div class="container justify-content-center px-5 header_top_2">
                 <form class="row g-3 need-validation novalidate form_toper_1">
                     <div>
-                        <h1>Confirm Skill Result.</h1>
+                        <h1>Administrator Login</h1>
                     </div>
                     <div class="col-md-12">
                         <label for="email" class="form-label">Email</label><br><br>
-                        <input type="text" class="form-control input_top"name="email" id="email">   
+                        <input type="text" class="form-control input_top"name="admin-email" id="email">   
                     </div>
                         <div class="col-md-12">
-                        <label for="skillMatNo" class="form-label">Matriculation No.</label><br><br>
-                        <input type="text" class="form-control input_top" name="skillMatNo" id="pass">   
-                    </div>
-                        <div class="col-md-12">
-                        <label for="skillType" class="form-label">Skill Type</label><br><br>
-                        <select  id="checkbox" class="form-label_1">
-                                <option value="" selected disabled></option>
-                                <option value="">Web Development/Design</option>
-                                <option value="">Computer Maintenance</option>
-                                <option value="">Make Up</option>
-                            </select>
-                    </div>
-                        <div class="col-md-12">
-                        <label for="academicSession" class="form-label">Academic Session</label><br><br>
-                        <select  id="checkbox" class="form-label_1">
-                                <option value="" selected disabled></option>
-                                <option value="">2020/2021</option>
-                                <option value="">2021/2022</option>
-                                <option value="">2022/2023</option>
-                                <option value="">2023/2024</option>
-                        </select>
+                        <label for="pass" class="form-label">Password</label><br><br>
+                        <input type="password" class="form-control input_top" name="admin-password" id="pass">   
                     </div>
                     </div>
                         <br><br>
                         <div class="for-button">
-                            <button type="button" id="btn">Check Result</button>
+                            <button type="button" id="btn">Login As Admin</button>
                             </div>
                         </div>
                     </div>

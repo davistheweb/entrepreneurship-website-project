@@ -62,6 +62,7 @@
               </li>
               <li><a href="register.php" target="_blank">Registration</a></li>
               <li><a href="login.php" target="_blank">Login</a></li>
+              <li><a href="admin_login.php" target="_blank">Admin</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -388,12 +389,6 @@
                 <img src="assets/images/vc-single.png" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-        <!--         <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>gut
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div> -->
                 <h4>Prof. Uchefula Ugonna Chukwumaeze</h4>
                 <span>Vice Chancellor</span>
               </div>
@@ -415,10 +410,10 @@
           <div class="col-xl-4 col-md-6 d-flex" data-aos="zoom-in" data-aos-delay="600">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets\images\supervisor.jpg" class="img-fluid" alt="">
+                <img src="assets\images\superv.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
-                <h4>Name?</h4>
+                <h4>Dr MC Maduwuba</h4>
                 <span>Supervisor</span>
               </div>
             </div>
