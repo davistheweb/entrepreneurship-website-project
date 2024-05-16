@@ -206,7 +206,7 @@
                 <a href="#" class="stretched-link">
                   <h3>Dev. Josiah Davis</h3>
                 </a>
-                <p>Student at Web design and developement Entrepreneurship Class & Computer Science.</p>
+                <p>Student at Web design and developement Entrepreneurship Class, Web Lecturer Iprosoft Tech & Computer Science Student</p>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -214,16 +214,16 @@
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
             <div class="service-item">
               <div class="img">
-                <img src="assets/images/instructor1.png" class="img-fluid" alt="">
+                <img src="assets\images\mrp.jpg" class="img-fluid" alt="">
               </div>
               <div class="details position-relative">
                 <div class="icon">
                   <i class="bi bi-person-circle"></i>
                 </div>
                 <a href="#" class="stretched-link">
-                  <h3>Mr Ikechukwu Stanley Oguoma</h3>
+                  <h3>Dev. Ibemere Paul Chukwuebuka</h3>
                 </a>
-                <p>Instructor at Web design and developement Entrepreneurship Class.</p>
+                <p>Student at Web design and developement Entrepreneurship Class, Instructor at Iprosoft and Management science Student</p>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -402,7 +402,7 @@
               </div>
               <div class="member-info">
                 <h4>Prof. Mbagwu</h4>
-                <span>Director entrepreneurship.</span>
+                <span>Director of entrepreneurship.</span>
               </div>
             </div>
           </div><!-- End Team Member -->
@@ -414,7 +414,7 @@
               </div>
               <div class="member-info">
                 <h4>Dr MC Maduwuba</h4>
-                <span>Supervisor</span>
+                <span>Supervisor of entrepreneurship.</span>
               </div>
             </div>
           </div><!-- End Team Member -->
